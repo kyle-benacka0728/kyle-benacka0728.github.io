@@ -62,17 +62,23 @@ a:hover {
 }
 
 #contact-links {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
     border-right: solid 2px black;
     align-content: center;
     padding-top: 10px;
     padding-bottom: 5px;
-
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .contact-text-links {
     border-radius: 15px;
-    width: max-content;
-
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
 }
 
 form {
