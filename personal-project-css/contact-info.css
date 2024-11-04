@@ -16,7 +16,6 @@ header {
     padding: 5px;
     text-align: center;
     font-size: 20px;
-    width: 101%;
 }
 
 a {
@@ -91,13 +90,15 @@ form {
     font-family: 'Rubik', 'sans-serif';
 }
 
+#submit {
+    display: flex;
+    padding-left: 60px;
+    color: #994f4f;
+}
+
 fieldset {
     border: none;
     padding-bottom: 0px;
-}
-
-input[type="submit"] {
-    margin-left: 18px;
 }
 
 p {
