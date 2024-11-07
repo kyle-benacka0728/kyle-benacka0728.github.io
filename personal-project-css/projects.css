@@ -170,7 +170,7 @@ p {
     }
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1439px) {
+@media screen and (min-width: 1024px) and (max-width: 1309px) {
     header {
         width: 1128px;
     }
@@ -189,7 +189,7 @@ p {
     }
 }
 
-@media screen and (min-width: 1440px) and (max-width: 2559px) {
+@media screen and (min-width: 1310px) and (max-width: 2559px) {
     header {
         width: 1430px;
     }
